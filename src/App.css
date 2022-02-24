@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+/* table css */
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table {
+  margin: 0px auto;
+}
+
+th, td {
+  padding: 24px;
+}
+
+.dataset-title {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.user-dataset {
+  width: 50%;
+  margin: 0px auto;
+}

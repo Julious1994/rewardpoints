@@ -1,0 +1,15 @@
+[
+    {"userId": 1, "userName": "Alex", "amount": 10, "date": "11-02-2022"},
+    {"userId": 2, "userName": "Tom", "amount": 100, "date": "12-02-2022"},
+    {"userId": 3, "userName": "Jacob", "amount": 80, "date": "13-02-2022"},
+    {"userId": 1, "userName": "Alex", "amount": 40, "date": "11-03-2022"},
+    {"userId": 2, "userName": "Tom", "amount": 160, "date": "11-03-2022"},
+    {"userId": 3, "userName": "Jacob", "amount": 150, "date": "11-03-2022"},
+    {"userId": 1, "userName": "Alex", "amount": 70, "date": "11-02-2022"},
+    {"userId": 2, "userName": "Tom", "amount": 100, "date": "11-02-2022"},
+    {"userId": 3, "userName": "Jacob", "amount": 110, "date": "11-01-2022"},
+    {"userId": 1, "userName": "Alex", "amount": 100, "date": "11-02-2022"},
+    {"userId": 2, "userName": "Tom", "amount": 130, "date": "11-01-2022"},
+    {"userId": 3, "userName": "Jacob", "amount": 20, "date": "12-01-2022"},
+    {"userId": 1, "userName": "Alex", "amount": 60, "date": "11-01-2022"}
+]
